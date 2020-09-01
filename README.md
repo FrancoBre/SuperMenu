@@ -1,5 +1,6 @@
 # SuperMenu
 Menú para hacer operaciones git dentro de la consola, de una manera amigable para el usuario.
+El menú tiene los siguientes ejercicios para ser ejecutados.
 
 # do_nothing
 La función do_nothing está hecha para esperar un tiempo pasado por parámetro y luego imprimir el mensaje
